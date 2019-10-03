@@ -36,5 +36,14 @@ public class Bol1 {
                 float radio=sc.nextFloat();
                 sc.close();
             System.out.println("A lonxitude da circunferencia é: "+(2*Math.PI*radio));
+        
+        System.out.println("");
+        //PASAR DE EUROS A DÓLARES
+            Scanner cambio=new Scanner(System.in);
+                System.out.printIn("Introduce una cantidad en euros:");
+                float euro=cambio.nextFloat();
+                cambio.close();
+            float dolar=euro*1.09f;
+            System.out.println("El cambio en dólares es: "+dolar+"$");
     }
 }
