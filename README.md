@@ -1,7 +1,7 @@
 # Boletín 1
 2.0.0-beta
 ***
-###Exercicios
+### Exercicios
 1. Deseña un algoritmo que calcule o área dun triángulo. A saida faise  por pantalla. (para codificar este programa inicializa a base ao valor 4, e a altura ao valor 3) .
 Codifica este programa nun proxecto chamado boletin1_1.
 
