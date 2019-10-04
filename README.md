@@ -1,2 +1,2 @@
 # Boletín 1
-build 2.0
+2.0.0-beta
