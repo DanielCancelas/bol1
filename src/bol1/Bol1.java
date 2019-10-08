@@ -55,13 +55,13 @@ public class Bol1 {
                 int n2=cifras.nextInt();
                 cifras.close();
             int s=(n1+n2);
-                System.out.print("O resultado da suma é: "+s);
+                System.out.println("O resultado da suma é: "+s);
                 System.out.println("");
             int r=(n1-n2);
-                System.out.print("O resultado da resta é: "+r);
+                System.out.println("O resultado da resta é: "+r);
                 System.out.println("");
             int p=(n1*n2);
-                System.out.print("O resultado do producto é: "+p);
+                System.out.println("O resultado do producto é: "+p);
                 System.out.println("");
             int c=(n1/n2);
                 System.out.println("O resultado do cociente é: "+c); */
